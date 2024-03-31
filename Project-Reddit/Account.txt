@@ -1,2 +1,3 @@
-{"Email":"s@s.s","Username":"soroush","Posts":0,"SubReddit":[],"ID":"1fc83dbd-3240-439e-8364-a85520071f78","Karma":0,"Password":"111"}
-{"Email":"baba@g.c","Username":"korosh","Posts":0,"SubReddit":[],"ID":"c897f4e0-c9b3-41f9-8e2f-3f5667455deb","Karma":0,"Password":"12345"}
+{"Display Name":"Soroush Saberi","Email":"a@g.com","Username":"soroush","Posts":0,"Admin Subreddit":[],"Joined Subreddit":["meme"],"Followings":[],"Followers":[],"Karma":1,"Password":"48657","About":""}
+{"Display Name":"ali","Email":"ss@gmail.c","Username":"ali","Posts":0,"Admin Subreddit":[],"Joined Subreddit":[],"Followings":[],"Followers":[],"Karma":0,"Password":"48657","About":""}
+{"Display Name":"ilia","Email":"h@dd.c","Username":"ilia","Posts":0,"Admin Subreddit":[],"Joined Subreddit":[],"ID":"10ad3f13-0bdd-4a9a-b70e-49a6733c3d66","Followings":["soroush"],"Followers":[],"Karma":0,"Password":"48657","About":""}
